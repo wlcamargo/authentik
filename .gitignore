@@ -1,0 +1,5 @@
+grist/persist/docs
+grist/persist/grist_certificate.pem
+grist/persist/grist_private_key.pem
+grist/persist/grist-sessions.db
+grist/persist/home.sqlite3
